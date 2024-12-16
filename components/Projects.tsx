@@ -1,4 +1,5 @@
 import { PROJECTS } from "@/constants"
+import { AnimatePresence, motion } from "framer-motion"
 
 const Projects = () => {
     return (
